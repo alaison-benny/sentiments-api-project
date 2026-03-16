@@ -1,5 +1,5 @@
 # Sentiments API Project
-“Production-ready Sentiment Analysis API with FastAPI, Docker, AWS, Prometheus & Grafana — showcasing end-to-end MLOps deployment and monitoring.”
+Production-ready Sentiment Analysis API with FastAPI, Docker, AWS, Prometheus & Grafana — showcasing end-to-end MLOps deployment and monitoring.
 
 ## 📌 What is this project?
 
