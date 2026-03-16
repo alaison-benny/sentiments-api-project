@@ -81,3 +81,12 @@ Displays error rate over time, uptime, and CPU usage.
 git clone https://github.com/<your-username>/sentiments-api-project.git
 cd sentiments-api-project
 docker-compose up -d
+
+---
+Access:
+
+API → http://<EC2-IP>:8000
+
+Prometheus → http://<EC2-IP>:9090
+
+Grafana → http://<EC2-IP>:3000
